@@ -4,8 +4,8 @@ import primarysvg from "../assets/Primarysvg.svg";
 
 const Hero = () => {
   return (
-    <div className="text-white max-w-lg mx-auto relative h-screen  flex flex-col items-center justify-center" id="/">
-      <div className="font-bold text-lg md:text-4xl ">
+    <div className="text-white max-w-lg mx-auto relative h-52 mt-40 md:mt-0 md:h-screen  flex flex-col items-center justify-center" id="/">
+      <div className="font-bold text-xl md:text-4xl ">
         <h1 className="text-center">
           It doesn’t matter what <span className="text-[#FFFF00]">JS</span>
         </h1>

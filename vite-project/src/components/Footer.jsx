@@ -7,7 +7,7 @@ const Footer = () => {
       <div>
         <div className="flex items-center justify-between gap-6">
           <div className="flex flex-col gap-1 hover:cursor-pointer">
-            <h3 className="font-medium text-lg">Lorem</h3>
+            <h3 className="font-medium text-lg py-1">Lorem</h3>
             <span className="text-sm font-extralight">Lorem</span>
             <span className="text-sm font-extralight">Lorem</span>
             <span className="text-sm font-extralight">Lorem</span>
@@ -16,7 +16,7 @@ const Footer = () => {
           </div>
           <div className="flex flex-col gap-1 hover:cursor-pointer">
             <h3 className="font-medium text-lg">Lorem</h3>
-            <span className="text-sm font-extralight">Lorem</span>
+         
             <span className="text-sm font-extralight">Lorem</span>
 
             <h3 className="font-medium text-lg py-1">Lorem</h3>
@@ -34,8 +34,7 @@ const Footer = () => {
           <div className="flex flex-col gap-1 hover:cursor-pointer">
             <h3 className="font-medium text-lg">Lorem</h3>
             <span className="text-sm font-extralight">Lorem</span>
-            <span className="text-sm font-extralight">Lorem</span>
-            <span className="text-sm fon t-extralight">Lorem</span>
+          
 
             <h3 className="font-medium text-lg py-1">Lorem</h3>
             <span className="text-sm font-extralight">Lorem</span>
